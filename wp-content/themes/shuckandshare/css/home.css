@@ -1,0 +1,18 @@
+h1{
+  color: blue;
+}
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+.navbar.center .navbar-inner .nav {
+    float: none;
+    display:inline-block;
+}
+
+.img-responsive {
+  max-width: 50%; /* or to whatever you want here */
+  max-height: auto; /* or to whatever you want here */
+  display: block;
+    margin: 0 auto;
+}
