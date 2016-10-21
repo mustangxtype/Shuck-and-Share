@@ -14,5 +14,5 @@ h1{
   max-width: 50%; /* or to whatever you want here */
   max-height: auto; /* or to whatever you want here */
   display: block;
-    margin: 0 auto;
+  margin: 0 auto;
 }

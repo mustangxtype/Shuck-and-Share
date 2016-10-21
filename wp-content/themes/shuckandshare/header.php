@@ -3,6 +3,7 @@
   <title>Shuck and Share</title>
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://code.jquery.com/jquery-3.1.1.js"   integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="   crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-2.0.9.js"></script>
   <?php wp_head(); ?>
 
 </head>
