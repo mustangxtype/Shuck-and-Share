@@ -1,11 +1,10 @@
 $(document).ready(function() {
 
-  var app = new Clarifai.App(
-    //insert own API Keys here
+  /*var app = new Clarifai.App(
+    '1Xlpx7bZWN1Ta4LW1b9t7PPgF0FjlQvY8Q2MZpss',
+    'HcwmFSepfIP9aReqL-qpj4wSbyEA7Ujo124G-84q'
   );
 
-  //This is an auto alt generator to help screenreaders give a
-  //better understanding of what is in the picture
   $("img").each(function(){
     var img = this;
     var src = img.src.split('/');
@@ -25,8 +24,7 @@ $(document).ready(function() {
       }
     );
     }
-    console.log("should be replaced");
 
-  });
+  });*/
 
 });

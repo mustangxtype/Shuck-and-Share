@@ -13,7 +13,6 @@
     <div class="row">
       <div class="col-md-6 text-center">
         <?php the_custom_logo(); ?>
-        <h4>Shuck and Share</h4>
       </div>
       <div class="col-md-6">
         <nav class="navbar navbar-default center">
